@@ -1,12 +1,12 @@
 # machine-learning-portfolio
 An end-to-end Machine Learning portfolio featuring Customer Segmentation (K-Means), Daily Revenue Forecasting (Linear/Ridge/Lasso/RF), and Cancer Diagnosis (Pipeline-backed 10-Fold Cross-Validation).
-# Veri Bilimi ve Makine Öğrenmesi Projeleri Portfolyosu 📊🤖
+# Veri Bilimi ve Makine Öğrenmesi Projeleri Portfolyosu 
 
 Bu depo; Python veri bilimi ekosistemi kullanılarak geliştirilmiş, makine öğrenmesinin üç ana temel direğini (Kümeleme, Regresyon ve Sınıflandırma) kapsayan uçtan uca üç farklı projenin kaynak kodlarını barındırmaktadır. Projelerde veri ön işleme, aykırı değer yönetimi, veri sızıntısının (Data Leakage) engellenmesi ve ileri düzey model değerlendirme metrikleri titizlikle uygulanmıştır.
 
 ---
 
-## 📁 Portfolyo İçeriği ve Teknik Detaylar
+## Portfolyo İçeriği ve Teknik Detaylar
 
 ### 1. K-Means ile Müşteri Segmentasyonu (Gözetimsiz Öğrenme — `ksonpy.py`)
 * **Veri Seti:** Wholesale Customers Data (Toptan Satış Müşteri Verileri)
@@ -34,7 +34,7 @@ Bu depo; Python veri bilimi ekosistemi kullanılarak geliştirilmiş, makine ö�
 
 ---
 
-## 🛠️ Teknolojik Altyapı ve Bağımlılıklar
+## Teknolojik Altyapı ve Bağımlılıklar
 
 * **Programlama Dili:** Python 3.10+
 * **Veri Manipülasyonu & Analiz:** Pandas, NumPy
@@ -43,7 +43,7 @@ Bu depo; Python veri bilimi ekosistemi kullanılarak geliştirilmiş, makine ö�
 
 ---
 
-## 🚀 Projelerin Çalıştırılması
+## Projelerin Çalıştırılması
 
 1. Bu depoyu yerel bilgisayarınıza klonlayın:
 ```bash
